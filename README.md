@@ -1,6 +1,3 @@
 ### Hi there, welcome to my GitHub! 🚀
 
-I am Abdelrahman Elbehiri, a passionate software engineer 💻 from Egypt/Germany based in Berlin 📍. With **4+ years of experience** and a **B.Sc. in Computer Science** from the Technical University of Berlin 🎓, I enjoy solving complex problems and building resilient systems ⚙️.
-
-I love working with cross-functional teams to design, develop, and deliver great products that make our customers' lives easier and richer 🌟.
-Building great products is a journey, and the journey is always about the team! 🚀🤝
+I’m Abdelrahman Elbehiri, a Berlin-based software engineer focused on turning complex problems into reliable, scalable products. I enjoy working with cross-functional teams to build thoughtful solutions that deliver meaningful value to users. 🚀🤝
